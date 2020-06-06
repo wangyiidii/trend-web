@@ -1,6 +1,6 @@
 trend-web
 -------------
-trend for SpringCloud的前端部分，基于vue2 + Element-UI .
+trend for SpringCloud的前端部分，基于vue2 + Element-UI + echart.
 
 # 特色
 - [x] `axios` 封装，并统一管理API（api）。
@@ -10,6 +10,7 @@ trend for SpringCloud的前端部分，基于vue2 + Element-UI .
 
 # 待优化的
 - [ ] Header 和 Footer 组件化优化（控制隐藏）
+- [ ] 坐标横轴均匀取点优化
 - [ ] 。。。。
 
 
